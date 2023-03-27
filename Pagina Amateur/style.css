@@ -43,13 +43,19 @@ body{
     background-color: #b3dfed;
     margin-left: 10px;
 }
-.menu{
-    
-}
 .escudotext{
 background-color: orange;
 width: 400px;
 }
 .fondo{
     font-family: 'Oswald', sans-serif;
+}
+html, body {
+    min-height: 100%;
+}
+html {
+    height: 100%;
+}
+body {
+    min-height: 100%;
 }
