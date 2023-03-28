@@ -8,7 +8,7 @@
     display:inline;
     padding-left:30px;
     padding-right: 30px;
-   background-color:rgb(241, 144, 7);
+   background: color #00324d;;
 }
 a {
    color:white;
@@ -16,13 +16,13 @@ a {
 }
 a:hover {
    color:black;
-   background-color:rgb(0, 160, 48);
+   background: color #39a900;;
 }
 .separador {
     color:gray;
 }
 #barra{
-    background-color: #07b047;
+    background-color: #39a900;
     height: 140px;
     width: 1920px;
     margin-left: -20px;
@@ -32,7 +32,7 @@ a:hover {
 }
 #Titulo{
     color: white;
-    background-color: #ff9301;
+    background-color: #cb7776;
     height: 40px;
     width: 1920px;
     margin-top: 0px;
@@ -40,11 +40,11 @@ a:hover {
 }
 body{
     text-align: center;
-    background-color: #b3dfed;
+    background-color: #82def0;
     margin-left: 10px;
 }
 .escudotext{
-background-color: orange;
+background-color: #385c57;
 width: 400px;
 }
 .fondo{
