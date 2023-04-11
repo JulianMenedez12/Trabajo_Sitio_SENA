@@ -11,11 +11,11 @@
    background: color #00324d;;
 }
 a {
-   color:white;
+   color:black;
    text-decoration:none;
 }
 a:hover {
-   color:black;
+   color:blue;
    background: color #39a900;;
 }
 .separador {
@@ -24,7 +24,7 @@ a:hover {
 #barra{
     background-color: #39a900;
     height: 140px;
-    width: 1920px;
+    width: 105%;
     margin-left: -20px;
     margin-top: -10px;
 
@@ -58,4 +58,10 @@ html {
 }
 body {
     min-height: 120%;
+}
+.titleref{
+    color: white;
+}
+.refs{
+    color: blueviolet;
 }
